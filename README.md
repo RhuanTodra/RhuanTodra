@@ -1,6 +1,6 @@
 - Bem Vindo! Eu sou Rhuan Todra
 
-- Atualmente sou estudante de Sistemas de Informação.
+- Sou estudante de Sistemas de Informação.
 - Trabalho atualmente como servidor público.
 
 <!---
